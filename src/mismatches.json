@@ -1,0 +1,107 @@
+[
+  {
+    "title": "EUROPEANMICROHOLDINGSINC_03_06_1998-EX-10.6-DISTRIBUTOR AGREEMENT",
+    "clause_type": "Uncapped Liability",
+    "expert_says": true,
+    "ai_says": false,
+    "ai_quote": ""
+  },
+  {
+    "title": "InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement",
+    "clause_type": "Uncapped Liability",
+    "expert_says": false,
+    "ai_says": true,
+    "ai_quote": "Customer shall defend, indemnify and hold harmless Contractor from all claims, liabilities, costs, damages, judgments and attorney's fees resulting from or arising out of any alleged and/or actual infringement or other violation of any patents, patent rights, trademarks, trademark rights, trade names, trade name rights, copyrights, trade secrets, proprietary rights and processes or other such rights elated to the Product or claims relating to Customer's instructions, tooling, specifications and designs (\"Claims\")"
+  },
+  {
+    "title": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement",
+    "clause_type": "Termination For Convenience",
+    "expert_says": false,
+    "ai_says": true,
+    "ai_quote": "This Agreement and/or any or all Facility Addendum (unless otherwise specified in the applicable Facility Addendum) may be terminated on a Product-by-Product basis by Customer immediately upon written notice to Manufacturer, if Customer cannot continue to distribute, use, market or sell such Product supplied under this Agreement or the relevant Facility Addendum without violating any then-current Laws."
+  },
+  {
+    "title": "PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT",
+    "clause_type": "Non-Compete",
+    "expert_says": false,
+    "ai_says": true,
+    "ai_quote": "During the Consultation Period (as defined below) and for a period of one year thereafter, except in connection with his performance of the Services, the Consultant shall not engage in any activity in the field described on Schedule A to this Agreement, and he shall not assist any other person or organization that engages in any such activity."
+  },
+  {
+    "title": "TICKETSCOMINC_06_22_1999-EX-10.22-SPONSORSHIP AGREEMENT",
+    "clause_type": "Renewal Term",
+    "expert_says": true,
+    "ai_says": false,
+    "ai_quote": ""
+  },
+  {
+    "title": "DIVERSINETCORP_03_01_2012-EX-4-RESELLER AGREEMENT",
+    "clause_type": "Termination For Convenience",
+    "expert_says": true,
+    "ai_says": false,
+    "ai_quote": ""
+  },
+  {
+    "title": "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement",
+    "clause_type": "Termination For Convenience",
+    "expert_says": false,
+    "ai_says": true,
+    "ai_quote": "a termination date elected by a Party in a written notice delivered to the other Party any time after the expiration of the last Purchase Schedule"
+  },
+  {
+    "title": "ATMOSENERGYCORP_11_22_2002-EX-10.17-TRANSPORTATION SERVICE AGREEMENT",
+    "clause_type": "Termination For Convenience",
+    "expert_says": false,
+    "ai_says": true,
+    "ai_quote": "Thereafter, this Agreement shall be effective month to month, until terminated by Transporter or Shipper upon the following written notice to the other specifying a termination date: sixty (60) days for interruptible transportation under Rate Schedule ITS and 180 days for firm transportation under Rate Schedule FTS."
+  },
+  {
+    "title": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement",
+    "clause_type": "Non-Compete",
+    "expert_says": true,
+    "ai_says": false,
+    "ai_quote": ""
+  },
+  {
+    "title": "VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT",
+    "clause_type": "Uncapped Liability",
+    "expert_says": true,
+    "ai_says": false,
+    "ai_quote": ""
+  },
+  {
+    "title": "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT",
+    "clause_type": "Renewal Term",
+    "expert_says": true,
+    "ai_says": false,
+    "ai_quote": ""
+  },
+  {
+    "title": "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement",
+    "clause_type": "Renewal Term",
+    "expert_says": true,
+    "ai_says": false,
+    "ai_quote": ""
+  },
+  {
+    "title": "RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement",
+    "clause_type": "Non-Compete",
+    "expert_says": true,
+    "ai_says": false,
+    "ai_quote": ""
+  },
+  {
+    "title": "RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement",
+    "clause_type": "Notice Period To Terminate Renewal",
+    "expert_says": false,
+    "ai_says": true,
+    "ai_quote": "NETTAXI may terminate this Agreement at any time for its convenience, for no reason or for any reason, upon sixty (60) days prior written notice to SpinRecords.com. SpinRecords.com may terminate this Agreement for no reason or for any reason upon sixty (60) days prior written notice to NETTAXI."
+  },
+  {
+    "title": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2",
+    "clause_type": "Uncapped Liability",
+    "expert_says": false,
+    "ai_says": true,
+    "ai_quote": "Supplier will defend, indemnify and hold harmless Purchaser and Playboy and the distributors and dealers and the officers and employees of each of the foregoing against all liability whatsoever which may be incurred by them or any of them as a result of any alleged defects in material or workmanship in the merchandise covered by this Contract."
+  }
+]

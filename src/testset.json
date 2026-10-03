@@ -1,0 +1,402 @@
+[
+  {
+    "title": "LejuHoldingsLtd_20140121_DRS (on F-1)_EX-10.26_8473102_EX-10.26_Content License Agreement2",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "WORLDWIDESTRATEGIESINC_11_02_2005-EX-10-RESELLER AGREEMENT",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": true,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "DOMINIADVISORTRUST_02_18_2005-EX-99.(H)(2)-SPONSORSHIP AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": true,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "EUROPEANMICROHOLDINGSINC_03_06_1998-EX-10.6-DISTRIBUTOR AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": true,
+      "Uncapped Liability": true,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "InmodeLtd_20190729_F-1A_EX-10.9_11743243_EX-10.9_Manufacturing Agreement",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": true,
+      "Uncapped Liability": false,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "SLOVAKWIRELESSFINANCECOBV_03_28_2001-EX-4.(B)(II).3-Maintenance and support contract for SICAP(R) modules",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": true,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "PANDIONTHERAPEUTICSHOLDCOLLC_05_22_2020-EX-10.17-CONSULTING AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": true,
+      "Uncapped Liability": false,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "LegacyEducationAllianceInc_20200330_10-K_EX-10.18_12090678_EX-10.18_Development Agreement",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": false,
+      "Uncapped Liability": true,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "TICKETSCOMINC_06_22_1999-EX-10.22-SPONSORSHIP AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": true,
+      "Uncapped Liability": true,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual Property Agreement",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "DIVERSINETCORP_03_01_2012-EX-4-RESELLER AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": true,
+      "Uncapped Liability": true,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "CHERRYHILLMORTGAGEINVESTMENTCORP_09_26_2013-EX-10.1-Strategic Alliance Agreement",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": true,
+      "Uncapped Liability": true,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "ZogenixInc_20190509_10-Q_EX-10.2_11663313_EX-10.2_Distributor Agreement",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": true,
+      "Uncapped Liability": true,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "ReynoldsConsumerProductsInc_20191115_S-1_EX-10.18_11896469_EX-10.18_Supply Agreement",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": true,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "ThriventVariableInsuranceAccountB_20190701_N-6_EX-99.D(IV)_11720968_EX-99.D(IV)_Endorsement Agreement",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "Zounds Hearing, Inc. - MANUFACTURING DESIGN MARKETING AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "ATMOSENERGYCORP_11_22_2002-EX-10.17-TRANSPORTATION SERVICE AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "XLITECHNOLOGIES,INC_12_11_2015-EX-10.1-Sponsorship Agreement",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "RevolutionMedicinesInc_20200117_S-1_EX-10.1_11948417_EX-10.1_Development Agreement",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": true,
+      "Uncapped Liability": true,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "VITAMINSHOPPECOMINC_09_13_1999-EX-10.26-SPONSORSHIP AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": true,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "GOLDRESOURCECORP_12_11_2008-EX-10.1-STRATEGIC ALLIANCE AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": true,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "NEOMEDIATECHNOLOGIESINC_12_15_2005-EX-16.1-DISTRIBUTOR AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "ARMSTRONGFLOORING,INC_01_07_2019-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "StaarSurgicalCompany_20180801_10-Q_EX-10.37_11289449_EX-10.37_Distributor Agreement",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": true,
+      "Uncapped Liability": true,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "RaeSystemsInc_20001114_10-Q_EX-10.57_2631790_EX-10.57_Co-Branding Agreement",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": true,
+      "Uncapped Liability": true,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "HOSPITALITYINVESTORSTRUST,INC_04_07_2014-EX-10.26-FRANCHISE AGREEMENT",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement4",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "VIVINT SOLAR, INC. - NON-COMPETITION AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT (1)",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "PlayboyEnterprisesInc_20090220_10-QA_EX-10.2_4091580_EX-10.2_Content License Agreement_ Marketing Agreement_ Sales-Purchase Agreement2",
+    "labels": {
+      "Non-Compete": true,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": true,
+      "Uncapped Liability": false,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  },
+  {
+    "title": "GluMobileInc_20070319_S-1A_EX-10.09_436630_EX-10.09_Content License Agreement3",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement2",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": false,
+      "Renewal Term": false,
+      "Notice Period To Terminate Renewal": false
+    }
+  },
+  {
+    "title": "WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT",
+    "labels": {
+      "Non-Compete": false,
+      "Termination For Convenience": false,
+      "Uncapped Liability": true,
+      "Renewal Term": true,
+      "Notice Period To Terminate Renewal": true
+    }
+  }
+]
